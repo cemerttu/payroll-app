@@ -28,3 +28,8 @@ Total Pay: $${totalPay.toFixed(2)}`;
 // Example
 const payroll = new PayrollApplication("Alice", 3000, 15);
 console.log(payroll.calculateTotalPay(10000));
+
+
+
+
+
